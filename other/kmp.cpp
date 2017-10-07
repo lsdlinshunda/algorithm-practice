@@ -1,6 +1,6 @@
-/*
-KMPËã·¨Æ¥Åä×Ö·û´®
-²Î¿¼£ºhttp://blog.csdn.net/power721/article/details/6132380
+ï»¿/*
+KMPç®—æ³•
+å‚è€ƒï¼šhttp://blog.csdn.net/power721/article/details/6132380
 2017.10.7
 */
 
